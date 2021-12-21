@@ -1,0 +1,9 @@
+package com.careerit.cj.demo;
+
+public class Helloworld {
+public static void main (String[]args) {
+	// TODO Auto-generated method stub
+System.out.println("Welcome to java world");
+
+}
+}
